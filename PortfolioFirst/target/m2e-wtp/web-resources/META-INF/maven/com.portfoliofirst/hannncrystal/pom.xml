@@ -41,10 +41,17 @@
 			 <version>4.3.3.RELEASE</version>
 		 </dependency>
 		 
+ 		<!-- HSJ Version Upgrade to 4.3.18
  		<dependency>
 		    <groupId>org.springframework</groupId>
 		    <artifactId>spring-core</artifactId>
 		    <version>4.3.3.RELEASE</version>
+		</dependency> -->
+		
+		<dependency>
+		    <groupId>org.springframework</groupId>
+		    <artifactId>spring-core</artifactId>
+		    <version>4.3.18.RELEASE</version>
 		</dependency>
 				
 		<!-- AspectJ -->
