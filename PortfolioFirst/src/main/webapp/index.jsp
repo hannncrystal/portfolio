@@ -7,7 +7,7 @@
 </head>
 <body>
 
-<% System.out.println("index 페이지 190303 수정 브랜치 테스트"); %>
+<% System.out.println("index 페이지 190303 수정 브랜치 두번째 테스트"); %>
 <c:redirect url="/main"/>
 
 </body>
